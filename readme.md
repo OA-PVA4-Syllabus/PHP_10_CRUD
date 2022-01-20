@@ -35,3 +35,5 @@ Naprogramujte formulář, který uloží data od uživatele do tabulky `zamestna
 
 ### 5 Update
 Napište SQL script, který všem aktivním pracovníkům (aktuální datum je mezi zahájením a ukončením) zvýší mzdu o 2,5% 
+
+Zdrojový kód SQL uložte do souboru `mzda.sql`
