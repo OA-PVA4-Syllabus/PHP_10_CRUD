@@ -21,11 +21,17 @@ Vytvořte tabulky `zamestnanec` s poli
   * město
   * psč
   * kód státu
+* mzda
+* datum zahájení
+* datum ukončení
 
 Zdrojový kód SQL uložte do souboru `tabulka.sql`
 
 ### 3 Výpis záznamů
-Vytvořte HTMl stránku jenž bude vypisovat všechny záznamy z tabulky `zamestnanec`
+Vytvořte HTML stránku jenž bude vypisovat všechny záznamy z tabulky `zamestnanec`
 
 ### 4 Formulář
-Naprogramujte formulář, který uloží data od uživatele do tabulky `zamestnanci` 
+Naprogramujte formulář, který uloží data od uživatele do tabulky `zamestnanci`
+
+### 5 Update
+Napište SQL script, který všem aktivním pracovníkům (aktuální datum je mezi zahájením a ukončením) zvýší mzdu o 2,5% 
