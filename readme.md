@@ -40,14 +40,14 @@ Definujte mezi tabulkami správné relace
 
 
 ### 4 Vložení záznamů
-* a) Sepište SQL příkaz pro vložení tří zaměstnanců.
-* b) U dvou zaměstnanců definujte jednu adresu a u jednoho budou adresy dvě.
-* c) Ke každému zaměstnanci nastavte alespoň tři záznamy do tabulky poměry.
+* Sepište SQL příkaz pro vložení tří zaměstnanců.
+* U dvou zaměstnanců definujte jednu adresu a u jednoho budou adresy dvě.
+* Ke každému zaměstnanci nastavte alespoň tři záznamy do tabulky poměry.
 
 ### 5 Update
-* a) Napište SQL script, který všem aktivním pracovníkům (aktuální datum je mezi zahájením a ukončením) zvýší mzdu o 2,5% 
-* b) Pomocí sql scriptu upravte všem záznamům, které nemají vyplněn kód státu CZ.
-
+* Napište SQL script, který všem aktivním pracovníkům (aktuální datum je mezi zahájením a ukončením) zvýší mzdu o 2,5% 
+* Pomocí sql scriptu upravte všem záznamům, které nemají vyplněn kód státu CZ.
+  
 ### 6 Smazání
-* a) SQL scriptem smažte všechny záznamy z tabulky poměry, které nemají vyplněné id zaměstnance nebo výši mzdy.
+* SQL scriptem smažte všechny záznamy z tabulky poměry, které nemají vyplněné id zaměstnance nebo výši mzdy.
 
