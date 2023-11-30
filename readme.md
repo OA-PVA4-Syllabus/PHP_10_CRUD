@@ -1,9 +1,9 @@
 # PVA4 - Programování a vývoj aplikací
-## Lekce 10: CRUD operace
+## SQL-02 - DDL
 
 ## Obsah
 
-Zdrojový kód SQL uložte do souboru `databaze.sql`
+Zdrojový kód SQL každého bloku uložte do souboru `sql_ddl_reseni_???.sql` místo otazníku použijte číslo zadání. Celkem odevzdáte 6 souborů.
 
 
 ### 1 Založení DB
@@ -33,7 +33,6 @@ Vytvořte tabulky `zamestnanec` a `adresa` s níže uvedenými sloupci.
 * datum zahájení
 * datum ukončení
 
-Zdrojový kód SQL uložte do souboru `tabulka.sql`
 
 
 ### 3 Relace
@@ -43,7 +42,7 @@ Definujte mezi tabulkami správné relace
 ### 4 Vložení záznamů
 * a) Sepište SQL příkaz pro vložení tří zaměstnanců.
 * b) U dvou zaměstnanců definujte jednu adresu a u jednoho budou adresy dvě.
-* c) Ke každému zaměstnanci nastavte alespoň dva tři záznamy do tabulky poměry.
+* c) Ke každému zaměstnanci nastavte alespoň tři záznamy do tabulky poměry.
 
 ### 5 Update
 * a) Napište SQL script, který všem aktivním pracovníkům (aktuální datum je mezi zahájením a ukončením) zvýší mzdu o 2,5% 
